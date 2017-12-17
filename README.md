@@ -15,10 +15,10 @@ Contains large files. Install git-lfs
 ## Files
 
 Scene:
-- Project/Assets/UdacityVR/Scenes/Museum
+- Museum/Assets/UdacityVR/Scenes/Museum.unity
 
 Video:
-![](Museum.mov)
+- Museum.mov
 
 ## Images
 
