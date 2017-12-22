@@ -20,20 +20,40 @@ Scene:
 Video:
 - Museum.mov
 
+# My Night at the Museum Project
+
+## Introduction
+
+## Outcomes
+
+## Story of the process
+
+## User testing outcomes and iteration
+
+## Breakdown of final piece
+
+## Conclusion
+
 ## Images
 
-![](Images/Museum-01.PNG)
-![](Images/Museum-02.PNG)
-![](Images/Museum-03.PNG)
-![](Images/Museum-04.PNG)
-![](Images/Museum-05.PNG)
-![](Images/Museum-06.PNG)
-![](Images/Museum-07.PNG)
-![](Images/Museum-08.PNG)
-![](Images/Museum-09.PNG)
-![](Images/Museum-10.PNG)
-![](Images/Museum-11.PNG)
-![](Images/Museum-12.PNG)
-![](Images/Museum-13.PNG)
-![](Images/Museum-14.PNG)
-![](Images/Museum-15.PNG)
+
+![](Media/sketch-01.PNG)
+![](Media/sketch-02.PNG)
+
+![](Media/Museum-01.PNG)
+![](Media/Museum-01.PNG)
+![](Media/Museum-01.PNG)
+![](Media/Museum-02.PNG)
+![](Media/Museum-03.PNG)
+![](Media/Museum-04.PNG)
+![](Media/Museum-05.PNG)
+![](Media/Museum-06.PNG)
+![](Media/Museum-07.PNG)
+![](Media/Museum-08.PNG)
+![](Media/Museum-09.PNG)
+![](Media/Museum-10.PNG)
+![](Media/Museum-11.PNG)
+![](Media/Museum-12.PNG)
+![](Media/Museum-13.PNG)
+![](Media/Museum-14.PNG)
+![](Media/Museum-15.PNG)
