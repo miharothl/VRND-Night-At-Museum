@@ -39,15 +39,15 @@ Way which is projected on the dome.
 The theme in the museum is Virtual Reality. There are five boots showing the
 evolution of VR.
 
-Check out [the video](https://youtu.be/YyHNnggyKF4)...
+Check out [the video](https://youtu.be/YyHNnggyKF4).
 
 ## Story of the process
 
 First I sketched the idea. The museum should be at the intersection of three
 infinite lanes. The viewer enters the museum through the big gate.
 
-![](Media/sketch-01.PNG)
-![](Media/sketch-02.PNG)
+![](Media/sketch-01.jpg)
+![](Media/sketch-02.jpg)
 
 I set up the tall-ship and the spaceship.
 
