@@ -20,7 +20,7 @@ Scene:
 Video:
 - Museum.mov
 
-# My Night at the Museum Project
+# Night at the Museum 
 
 After the Puzzler which I created as part of my coursework with Udacity I
 created a new mobile VR experience named the Night at the Museum. This time the
@@ -39,7 +39,7 @@ Way which is projected on the dome.
 The theme in the museum is Virtual Reality. There are five boots showing the
 evolution of VR.
 
-Check out [the video](https://youtu.be/YyHNnggyKF4).
+Check out [the video](https://youtu.be/WAVLqsp4lHI).
 
 ## Story of the process
 
